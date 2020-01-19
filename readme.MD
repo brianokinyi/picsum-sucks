@@ -12,3 +12,5 @@ A simple php script to help me rename images and files that I use for my seed da
 - Open ```index.php``` and edit how your want your files to be renamed.
 
 - Place this project on your server and run it.
+
+Images courtesy of [Pexels](https://www.pexels.com)
